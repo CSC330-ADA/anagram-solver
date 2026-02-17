@@ -1,5 +1,5 @@
 # anagram-solver
-Team ADA Members: 
-Amier Davis
-Danae Ludy -- AI/ML Major
-Anthony Malone
+Team ADA Members: <br>
+Amier Davis <br>
+Danae Ludy -- AI/ML Major <br>
+Anthony Malone <br>
